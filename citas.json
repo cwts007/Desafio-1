@@ -1,0 +1,149 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Max",
+    "edad": "3 años",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "gripe"
+  },
+  {
+    "nombre": "Luna",
+    "edad": "1 año",
+    "animal": "gato",
+    "color": "blanco",
+    "enfermedad": "infección urinaria"
+  },
+  {
+    "nombre": "Bella",
+    "edad": "2 años",
+    "animal": "perro",
+    "color": "marrón",
+    "enfermedad": "alergia"
+  },
+  {
+    "nombre": "Charlie",
+    "edad": "5 años",
+    "animal": "gato",
+    "color": "gris",
+    "enfermedad": "otitis"
+  },
+  {
+    "nombre": "Coco",
+    "edad": "4 años",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "gastroenteritis"
+  },
+  {
+    "nombre": "Rocky",
+    "edad": "7 años",
+    "animal": "gato",
+    "color": "naranja",
+    "enfermedad": "asma"
+  },
+  {
+    "nombre": "Daisy",
+    "edad": "1 año",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "diarrea"
+  },
+  {
+    "nombre": "Simba",
+    "edad": "2 años",
+    "animal": "gato",
+    "color": "negro",
+    "enfermedad": "herida"
+  },
+  {
+    "nombre": "Buddy",
+    "edad": "3 años",
+    "animal": "perro",
+    "color": "gris",
+    "enfermedad": "artritis"
+  },
+  {
+    "nombre": "Lola",
+    "edad": "6 meses",
+    "animal": "gato",
+    "color": "blanco",
+    "enfermedad": "problemas respiratorios"
+  },
+  {
+    "nombre": "Milo",
+    "edad": "4 años",
+    "animal": "perro",
+    "color": "marrón",
+    "enfermedad": "problemas en la piel"
+  },
+  {
+    "nombre": "Leo",
+    "edad": "5 años",
+    "animal": "gato",
+    "color": "atigrado",
+    "enfermedad": "infección ocular"
+  },
+  {
+    "nombre": "Lucy",
+    "edad": "8 años",
+    "animal": "perro",
+    "color": "gris",
+    "enfermedad": "diabetes"
+  },
+  {
+    "nombre": "Max",
+    "edad": "2 años",
+    "animal": "gato",
+    "color": "negro",
+    "enfermedad": "fractura"
+  },
+  {
+    "nombre": "Nala",
+    "edad": "3 años",
+    "animal": "perro",
+    "color": "blanco",
+    "enfermedad": "parvovirus"
+  },
+  {
+    "nombre": "Oscar",
+    "edad": "6 años",
+    "animal": "gato",
+    "color": "gris",
+    "enfermedad": "problemas dentales"
+  },
+  {
+    "nombre": "Bella",
+    "edad": "4 años",
+    "animal": "perro",
+    "color": "negro",
+    "enfermedad": "sobrepeso"
+  },
+  {
+    "nombre": "Jack",
+    "edad": "1 año",
+    "animal": "gato",
+    "color": "marrón",
+    "enfermedad": "infección parasitaria"
+  },
+  {
+    "nombre": "Duke",
+    "edad": "5 años",
+    "animal": "perro",
+    "color": "marrón",
+    "enfermedad": "dermatitis"
+  },
+  {
+    "nombre": "Oliver",
+    "edad": "7 años",
+    "animal": "gato",
+    "color": "blanco",
+    "enfermedad": "cálculos renales"
+  }
+]
